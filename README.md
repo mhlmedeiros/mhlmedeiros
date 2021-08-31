@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### About my work and interests
+- 🔭 I’m currently working on quantum transport simulations in graphene and excitons in TMDC's
+- 🌱 I’m currently learning deep learning and data science
+- 👯 I’m looking to collaborate on data science and AI projects
+- 💬 Ask me about computational physics, Python, kwant
+- 📫 How to reach me: mhlmedeiros@gmail.com
+
